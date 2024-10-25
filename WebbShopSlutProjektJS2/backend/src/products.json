@@ -1,0 +1,58 @@
+[
+  {
+    "id": 100,
+    "name": "Body Scrub",
+    "price": 169,
+    "image": "https://rituals.scene7.com/is/image/rituals/1117926-alchemy-body-scrub-pdp:Square?fmt=webp-alpha&hei=1125&resMode=sharp2&wid=1125",
+    "inStock": 72
+  },
+  {
+    "id": 101,
+    "name": "Body Cream",
+    "price": 269,
+    "image": "https://rituals.scene7.com/is/image/rituals/1117923-rituals-ta24043-alchemy-2024-bodycream_084:Square?fmt=webp-alpha&hei=1125&resMode=sharp2&wid=1125",
+    "inStock": 0
+  },
+  {
+    "id": 102,
+    "name": "Hand Wash",
+    "price": 185,
+    "image": "https://rituals.scene7.com/is/image/rituals/1117932-alchemy-hand-wash-pdp:Square?fmt=webp-alpha&hei=1125&resMode=sharp2&wid=1125",
+    "inStock": 36
+  },
+  {
+    "id": 103,
+    "name": "Fragrance sticks",
+    "price": 425,
+    "image": "https://rituals.scene7.com/is/image/rituals/1117930-alchemy-fragrance-sticks-pdp:Square?fmt=webp-alpha&hei=1125&resMode=sharp2&wid=1125",
+    "inStock": 28
+  },
+  {
+    "id": 104,
+    "name": "Home Parfume",
+    "price": 299,
+    "image": "https://rituals.scene7.com/is/image/rituals/1117931-alchemy-home-perfume-pdp:Square?fmt=webp-alpha&hei=1125&resMode=sharp2&wid=1125",
+    "inStock": 25
+  },
+  {
+    "id": 105,
+    "name": "Foaming Shower Gel",
+    "price": 135,
+    "image": "https://rituals.scene7.com/is/image/rituals/1117915-alchemy-foaming-shower-gel-pdp:3-by-4?fmt=webp-alpha&hei=1500&resMode=sharp2&wid=1125",
+    "inStock": 15
+  },
+  {
+    "id": 106,
+    "name": "Stone Diffuser",
+    "price": 489,
+    "image": "https://rituals.scene7.com/is/image/rituals/1117933-alchemy-diffuser-pdp:Square?fmt=webp-alpha&hei=1163&resMode=sharp2&wid=1163",
+    "inStock": 26
+  },
+  {
+    "id": 107,
+    "name": "Scented Candle",
+    "price": 369,
+    "image": "https://rituals.scene7.com/is/image/rituals/1117929-alchemy-candle-pdp:Square?fmt=webp-alpha&hei=1125&resMode=sharp2&wid=1125",
+    "inStock": 116
+  }
+]
